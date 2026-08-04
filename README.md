@@ -29,6 +29,30 @@ Not a panel. Not another vague conversation about “trust.” A working civic p
 
 ​2. Decide what BC should tell Ottawa
 
+---
+Response to this call can be via email or by doing an online survey. BC + AI will put together a document for email response.
+
+The government's online survey contains 24 questions that are somewhat repetitive across the five focus areas we want to discuss. They are listed further below.
+
+For the lab, they've been distilled to 15 key questions across the five sections that can serve as prompts for discussion.
+
+Each discussion area has its own page in the repo for background context and discussion prompts.
+
+For each section we've also consulted the relevant EU AI Act legislation and implementation which can act as a useful forerunner example for our Canadian jurisdiction.
+
+1. [AI-generated content](ai-generated-content.md)
+2. [Knowing when you're interacting with AI](ai-interaction-awareness.md)
+3. [Information about AI systems](ai-systems-info-disclosure.md)
+4. [AI incidents](ai-incident-response.md)
+5. [AI agents that can take action on your behalf](ai-agent-responsibility.md)
+
+**For each discussion area the Lab participants should achieve some group consensus on (1) Recommendations (2) Concerns/Risks (3) Further questions**
+
+---
+
+
+
+
 
 
 
