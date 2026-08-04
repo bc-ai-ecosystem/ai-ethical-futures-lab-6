@@ -50,7 +50,7 @@ For each section we've also consulted the relevant EU AI Act legislation and imp
 
 ---
 
-## Verbatim list of questions from survey from Innovation, Science and Economic Development Canada:
+### Verbatim list of survey questions from Innovation, Science and Economic Development Canada:
 1. Would it help you trust what you see online if you could tell whether something was created by AI or by a person? When and for what kinds of content (e.g., image, video, audio) is it most important to know if something was created or modified by AI? 
 2. What would best help Canadians determine when content is AI-generated (e.g., invisible or visible watermarks, disclaimers, provenance metadata)?
 3. Who in the AI value chain (developers, deployers, or others) should be responsible for providing transparency around AI-generated content? Why? 
