@@ -1,0 +1,22 @@
+ai-interaction-awareness.md
+  h_10c93bba641ef0 1-16
+ai-systems-info-disclosure.md
+  h_10c93bba641ef0 1-18
+ai-agent-responsibility.md
+  h_10c93bba641ef0 1-14
+ai-generated-content.md
+  h_10c93bba641ef0 1-25
+ai-incident-response.md
+  h_10c93bba641ef0 1-21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "9043bc5bba8d639ae09410d9147c5df039db85ed",
+  "prompts": {},
+  "humans": {
+    "h_10c93bba641ef0": {
+      "author": "Peter Van Garderen <vangarderen.peter@gmail.com>"
+    }
+  }
+}
