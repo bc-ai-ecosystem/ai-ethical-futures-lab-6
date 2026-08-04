@@ -3,6 +3,8 @@ August 4, 2026. [Parker Street Studios](https://luma.com/aug-ethics?tk=Jh8dUk)
 
 Facilitator: [Peter Van Garderen](https://vangarderen.net) BC+AI member
 
+![logo](assets/ai-ethical-futures-lab-6.png)
+
 ## Government of Canada’s Call for Information on Advancing AI Transparency
 Innovation, Science and Economic Development Canada has opened a public consultation on AI transparency. 
 
