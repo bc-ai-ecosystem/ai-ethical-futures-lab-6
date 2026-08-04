@@ -1,0 +1,16 @@
+.gitignore
+  h_10c93bba641ef0 1
+README.md
+  h_10c93bba641ef0 6-7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "f8bc46afe20686768c068fd0b6175e4ea6c0eaad",
+  "prompts": {},
+  "humans": {
+    "h_10c93bba641ef0": {
+      "author": "Peter Van Garderen <vangarderen.peter@gmail.com>"
+    }
+  }
+}
