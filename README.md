@@ -36,7 +36,7 @@ The government's online survey contains 24 questions that are somewhat repetitiv
 
 For the lab, they've been distilled to 15 key questions across the five sections that can serve as prompts for discussion.
 
-Each discussion area has its own page in the repo for background context and discussion prompts.
+Each discussion area has its own page in this repo for background context and discussion prompts. They could also serve as stubs for meeting artifacts and follow-up tasks.
 
 For each section we've also consulted the relevant EU AI Act legislation and implementation which can act as a useful forerunner example for our Canadian jurisdiction.
 
