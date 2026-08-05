@@ -41,7 +41,9 @@ https://ised-isde.canada.ca/site/ised/en/have-your-say-advancing-ai-transparency
 - no, we'd like to know everytime. there's lack of trust. until we get to a point of trust.
 - I'd like to know when my bank uses it for example
 - what system regulates when something goes wrong
-- what do we want from regulation? 
+- what do we want from regulation?
+
+- IDEAS for future meetings: do less theorizing and more hands-on
   
 7. What factors make a disclosure of AI use meaningful and effective for the user? 
 8. Who in the AI value chain (developers, deployers, or others) should be responsible for providing transparency around AI interactions? Why? 
@@ -73,3 +75,5 @@ https://ised-isde.canada.ca/site/ised/en/have-your-say-advancing-ai-transparency
 24. How should any measures account for the circumstances of small and medium-sized enterprises? 
 25. How should Canada ensure coherence between any federal measures and provincial, territorial, and international frameworks? What approaches in other jurisdictions could best inform a Canadian consideration of this issue?
 26. How can Canada design measures to best account for the ongoing evolution in AI technologies and their use?
+
+
