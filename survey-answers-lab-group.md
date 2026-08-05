@@ -2,7 +2,13 @@ Survey questions from Innovation, Science and Economic Development Canada:
 
 https://ised-isde.canada.ca/site/ised/en/have-your-say-advancing-ai-transparency-canada
 
-1. Would it help you trust what you see online if you could tell whether something was created by AI or by a person? When and for what kinds of content (e.g., image, video, audio) is it most important to know if something was created or modified by AI? 
+1. Would it help you trust what you see online if you could tell whether something was created by AI or by a person? When and for what kinds of content (e.g., image, video, audio) is it most important to know if something was created or modified by AI?
+
+- Yes, but how. How was it used rather than whether it was used.
+- There are no preventative questions being asked. Cigarette label warning helps but you still need public health initiaves (it's multi-pronged.
+- are we addressing prevention.
+
+
 2. What would best help Canadians determine when content is AI-generated (e.g., invisible or visible watermarks, disclaimers, provenance metadata)?
 3. Who in the AI value chain (developers, deployers, or others) should be responsible for providing transparency around AI-generated content? Why? 
 4. Do existing market practices, technical tools, and legal frameworks make it easy enough to know when content is AI-generated? If not, where do gaps remain and what actions (e.g., regulatory measures, guidance and codes of conduct, standards and technical solutions, research and development, literacy initiatives, procurement requirements) do you think the Government should take? 
