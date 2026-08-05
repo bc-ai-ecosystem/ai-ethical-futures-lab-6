@@ -43,7 +43,7 @@ https://ised-isde.canada.ca/site/ised/en/have-your-say-advancing-ai-transparency
 - what system regulates when something goes wrong
 - what do we want from regulation?
 
-- IDEAS for future meetings: do less theorizing and more hands-on
+- IDEAS for future meetings: do less theorizing and more hands-on. create a steering committee for Ethics Lab.
   
 7. What factors make a disclosure of AI use meaningful and effective for the user? 
 8. Who in the AI value chain (developers, deployers, or others) should be responsible for providing transparency around AI interactions? Why? 
