@@ -18,6 +18,7 @@ https://ised-isde.canada.ca/site/ised/en/have-your-say-advancing-ai-transparency
 - As citizens and clients we can't be sure when bureaucratic / financial decisions are being made with systems that use AI for decision-making.
 - EU AI act
 - who in the human element is controlling AI?
+- if money is being allocated by the Canadian Government for AI Transparency or Sovereignty - how does it get to SMEs, community organizations?
   
 2. What would best help Canadians determine when content is AI-generated (e.g., invisible or visible watermarks, disclaimers, provenance metadata)?
 
