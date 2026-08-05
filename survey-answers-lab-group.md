@@ -11,7 +11,8 @@ https://ised-isde.canada.ca/site/ised/en/have-your-say-advancing-ai-transparency
 - what about generative AI in medical records? This is maybe a less visible area to end-users.
 - is government just trying to appease public by asking for this survey, is it consultation theatre?
 - even if we know its AI do we know which organizations we're getting it from. What is the source of data?
-- 
+- what are AI algorithms actually optimized for
+  
 
 
 2. What would best help Canadians determine when content is AI-generated (e.g., invisible or visible watermarks, disclaimers, provenance metadata)?
