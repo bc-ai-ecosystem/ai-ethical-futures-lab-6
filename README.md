@@ -1,7 +1,9 @@
 # BC + AI Ecosystem -- AI Ethical Futures Lab #6
-August 4, 2026. [Parker Street Studios](https://luma.com/aug-ethics?tk=Jh8dUk)
+August 4, 2026. 
 
 Facilitator: [Peter Van Garderen](https://vangarderen.net) BC+AI member
+
+Host: [Tanya Lingsby](https://www.tanyaslingsby.com/) BC+AI member [Parker Street Studios](https://luma.com/aug-ethics?tk=Jh8dUk)
 
 ![logo](assets/ai-ethical-futures-lab-6.png)
 
