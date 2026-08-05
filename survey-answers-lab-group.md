@@ -15,6 +15,7 @@ https://ised-isde.canada.ca/site/ised/en/have-your-say-advancing-ai-transparency
 - C2PA seems to be a good solution - tell whether something was person, AI or hybrid-AI created?
 - if most content is AI-generated, maybe its more useful to just say whether its human-created
 - Quebec Privacy Law - real time consent is required - what's missing in C2PA is consent-information, who checks that?
+- As citizens and clients we can't be sure when bureaucratic / financial decisions are being made with systems that use AI for decision-making
   
 2. What would best help Canadians determine when content is AI-generated (e.g., invisible or visible watermarks, disclaimers, provenance metadata)?
 3. Who in the AI value chain (developers, deployers, or others) should be responsible for providing transparency around AI-generated content? Why? 
