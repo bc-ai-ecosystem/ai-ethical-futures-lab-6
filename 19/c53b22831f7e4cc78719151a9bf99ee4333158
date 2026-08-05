@@ -1,0 +1,14 @@
+README.md
+  h_10c93bba641ef0 10-25
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "19c53b22831f7e4cc78719151a9bf99ee4333158",
+  "prompts": {},
+  "humans": {
+    "h_10c93bba641ef0": {
+      "author": "Peter Van Garderen <vangarderen.peter@gmail.com>"
+    }
+  }
+}
