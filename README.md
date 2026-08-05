@@ -1,7 +1,8 @@
 # BC + AI Ecosystem -- AI Ethical Futures Lab #6
+# Responding to Government of Canada’s Call for Information on Advancing AI Transparency
 August 4, 2026. 
 
-Facilitator: [Peter Van Garderen](https://vangarderen.net) BC+AI member
+Facilitator: [Peter Van Garderen](https://vangarderen.net/#about) BC+AI member
 
 Host: [Tanya Lingsby](https://www.tanyaslingsby.com/) BC+AI member [Parker Street Studios](https://luma.com/aug-ethics?tk=Jh8dUk)
 
