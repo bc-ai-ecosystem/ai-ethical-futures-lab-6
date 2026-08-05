@@ -21,7 +21,7 @@ https://ised-isde.canada.ca/site/ised/en/have-your-say-advancing-ai-transparency
 2. What would best help Canadians determine when content is AI-generated (e.g., invisible or visible watermarks, disclaimers, provenance metadata)?
 
 - all sound like good ideas.
-- 
+  
 4. Who in the AI value chain (developers, deployers, or others) should be responsible for providing transparency around AI-generated content? Why?
   
 5. Do existing market practices, technical tools, and legal frameworks make it easy enough to know when content is AI-generated? If not, where do gaps remain and what actions (e.g., regulatory measures, guidance and codes of conduct, standards and technical solutions, research and development, literacy initiatives, procurement requirements) do you think the Government should take?
@@ -50,7 +50,7 @@ https://ised-isde.canada.ca/site/ised/en/have-your-say-advancing-ai-transparency
 - what about using our legal system. it is a serious AI incident if it breaks a law.
 - many laws are individual focused so its more difficult to measure cultural harm.
 - corporate harm or government harm - eg credit rating - who is responsible
-
+- what about a scale of harm? eg. self-driving car is trained on detecting humans, could do harm if not identified as human (transparency in training data).
 
 17. Which individuals or actors (e.g., developers, deployers) are best placed to provide the most relevant information? Who (e.g., regulatory bodies, nonprofits, others) should collect this information and what should be done with it? 
 18. Are existing incident reporting frameworks in Canada (e.g., for consumer products, medical devices, transportation) sufficient to address serious incidents involving AI? If not, where do gaps remain and what actions (e.g., regulatory measures, guidance and codes of conduct, standards and technical solutions, research and development, literacy initiatives, procurement requirements) do you think the Government should take? Are there emerging international best practices that Canada could adapt or interoperate with?
