@@ -77,3 +77,12 @@ For each section we've also consulted the relevant EU AI Act legislation and imp
 22. How should any measures account for the circumstances of small and medium-sized enterprises? 
 23. How should Canada ensure coherence between any federal measures and provincial, territorial, and international frameworks? What approaches in other jurisdictions could best inform a Canadian consideration of this issue?
 24. How can Canada design measures to best account for the ongoing evolution in AI technologies and their use?
+
+---
+
+FACILITATOR NOTES:
+- PARTICIPANTS: approximately 20
+- LENGTH: 1h:17mins
+- DESCRIPTION: We started the meeting with the intention to answer each survey question as one group. However, the first few questions are very shallow and the conversation quickly drifted to deeper issues. We steered back to the survey questions list a few times but mostly had a very engaging and important discussion about AI ethics and possible futures.
+- The discussion was recorded and transcribed. Notes were kept.
+- The meeting concluded with revisiting the need to respond to the Government call for comment. Their survey contains a lot of detailed, complex questions and will require a non-trivial amount of hours to draft a thoughtful, human, useful response. Sara volunteered to pick up from these meeting artifacts and tackle the survey questions as the primary input for a formal BC+AI response as a next action step.
