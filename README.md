@@ -16,6 +16,7 @@ Host: [Tanya Lingsby](https://www.tanyaslingsby.com/) BC+AI member [Parker Stree
 - The lab ended with consensus that the survey's focus should be less on regulating AI providers and more on empowering and educating end-users of AI services to make informed choices and thereby get assurances about privacy, data ownership and media authenticity.
 - The Lab members discussed future meetings. Tanya and her studio not available for a Sept meetup. Can the group do less theorizing and more hands-on work with outputs at next meeting? The Ethics Lab groups should create a steering committee.
 - The meeting concluded with revisiting the need to respond to the Government call for comment. Their survey contains a lot of detailed, complex questions and will require a non-trivial amount of hours to draft a thoughtful, human, useful response. Sara volunteered to pick up from these meeting artifacts and tackle the survey questions as the primary input for a formal BC+AI response as a next action step.
+- As a meta-exercise, Grok 4.5 produced this list of [draft GoC survey question repsonses](ai-ethical-futures-lab-6-survey-responses-grok4.5.md) based on the meeting transcript, notes and summary.
 
 ---
 
