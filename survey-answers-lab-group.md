@@ -20,6 +20,7 @@ https://ised-isde.canada.ca/site/ised/en/have-your-say-advancing-ai-transparency
 - who in the human element is controlling AI?
 - if money is being allocated by the Canadian Government for AI Transparency or Sovereignty - how does it get to SMEs, community organizations?
 - we need more consumer-friendly, sovereign tech
+- BC Rental law is a good example. People renting their property have to comply. AI users should as well.
   
 2. What would best help Canadians determine when content is AI-generated (e.g., invisible or visible watermarks, disclaimers, provenance metadata)?
 
