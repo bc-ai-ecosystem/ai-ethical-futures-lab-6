@@ -7,7 +7,22 @@ Host: [Tanya Lingsby](https://www.tanyaslingsby.com/) BC+AI member [Parker Stree
 
 ![logo](assets/ai-ethical-futures-lab-6.png)
 
-## Government of Canada’s Call for Information on Advancing AI Transparency
+## Facilitator notes
+- PARTICIPANTS: approximately 20
+- LENGTH: 1h:17mins
+- DESCRIPTION: We started the meeting with the intention to answer each survey question as one group. However, the first few questions are very shallow and the conversation quickly drifted to deeper issues. We steered back to the survey questions list a few times but mostly had a very engaging and important discussion about AI ethics and possible futures.
+- The discussion was [recorded](assets/ai-ethical-futures-lab-6-recording.m4a) and [transcribed](ai-ethical-futures-lab-6-transcript.md). [Notes](ai-ethical-futures-lab-6-notes.md) were kept. These will serve as inputs for follow-up work on response to GoC call for comments on AI Transparency.
+- The lab ended with consensus that the survey's focus should be less on regulating AI providers and more on empowering and educating end-users of AI services to make informed choices and thereby get assurances about privacy, data ownership and media authenticity.
+- The Lab members discussed future meetings. Tanya and her studio not available for a Sept meetup. Can the group do less theorizing and more hands-on work with outputs at next meeting? The Ethics Lab groups should create a steering committee.
+- The meeting concluded with revisiting the need to respond to the Government call for comment. Their survey contains a lot of detailed, complex questions and will require a non-trivial amount of hours to draft a thoughtful, human, useful response. Sara volunteered to pick up from these meeting artifacts and tackle the survey questions as the primary input for a formal BC+AI response as a next action step.
+
+---
+
+![photo1](assets/ai-ethtical-futures-lab-6-photo-1.png) ![photo2](assets/ai-ethtical-futures-lab-6-photo-2.png)
+
+---
+
+## Agenda -- Government of Canada’s Call for Information on Advancing AI Transparency
 Innovation, Science and Economic Development Canada has opened a public consultation on AI transparency. 
 
 https://ised-isde.canada.ca/site/ised/en/have-your-say-advancing-ai-transparency-canada
@@ -77,14 +92,3 @@ For each section we've also consulted the relevant EU AI Act legislation and imp
 22. How should any measures account for the circumstances of small and medium-sized enterprises? 
 23. How should Canada ensure coherence between any federal measures and provincial, territorial, and international frameworks? What approaches in other jurisdictions could best inform a Canadian consideration of this issue?
 24. How can Canada design measures to best account for the ongoing evolution in AI technologies and their use?
-
----
-
-FACILITATOR NOTES:
-- PARTICIPANTS: approximately 20
-- LENGTH: 1h:17mins
-- DESCRIPTION: We started the meeting with the intention to answer each survey question as one group. However, the first few questions are very shallow and the conversation quickly drifted to deeper issues. We steered back to the survey questions list a few times but mostly had a very engaging and important discussion about AI ethics and possible futures.
-- The discussion was [recorded](assets/ai-ethical-futures-lab-6-recording.m4a) and [transcribed](ai-ethical-futures-lab-6-transcript.md). [Notes](ai-ethical-futures-lab-6-notes.md) were kept.
-- The lab ended with consensus that the survey's focus should be less on regulating AI providers and more on empowering and educating end-users of AI services to make informed choices and thereby get assurances about privacy, data ownership and media authenticity.
-- The Lab members discussed future meetings. Tanya and her studio not available for a Sept meetup. Can the group do less theorizing and more hands-on work with outputs at next meeting? The Ethics Lab groups should create a steering committee.
-- The meeting concluded with revisiting the need to respond to the Government call for comment. Their survey contains a lot of detailed, complex questions and will require a non-trivial amount of hours to draft a thoughtful, human, useful response. Sara volunteered to pick up from these meeting artifacts and tackle the survey questions as the primary input for a formal BC+AI response as a next action step.
