@@ -16,7 +16,7 @@ https://ised-isde.canada.ca/site/ised/en/have-your-say-advancing-ai-transparency
 - if most content is AI-generated, maybe its more useful to just say whether its human-created
 - Quebec Privacy Law - real time consent is required - what's missing in C2PA is consent-information, who checks that?
 - As citizens and clients we can't be sure when bureaucratic / financial decisions are being made with systems that use AI for decision-making.
-- EU AI act
+- EU AI act should not be copied verbatim but provides a good example. Plus EU has power to change practices of Big Tech.
 - who in the human element is controlling AI?
 - if money is being allocated by the Canadian Government for AI Transparency or Sovereignty - how does it get to SMEs, community organizations?
 - we need more consumer-friendly, sovereign tech
