@@ -7,7 +7,7 @@
 The discussion was free-flowing rather than strictly sequential through the 23 questions. Participants repeatedly observed that the official questions may not fully capture the most urgent issues and that the first meta-question should be whether these are the right questions.
 
 ### 1. Session Purpose and Format
-The group reviewed the five high-level theme areas from the ISED call and Chris’s preparatory framing. Consensus favoured full-group discussion (facilitated to ensure balanced speaking time) over breakouts, given the diverse expertise in the room. The goal was both practical feedback for a possible BC+AI / group submission and broader exploration of transparency, power, and trust.
+The group reviewed the five high-level theme areas from the ISED call and Kris’s preparatory framing. Consensus favoured full-group discussion (facilitated to ensure balanced speaking time) over breakouts, given the diverse expertise in the room. The goal was both practical feedback for a possible BC+AI / group submission and broader exploration of transparency, power, and trust.
 
 ### 2. Detecting & Labelling AI-Generated or AI-Modified Content
 Strong agreement that knowing whether content was created or modified by AI would increase trust online, particularly for news, reviews, advertising, electoral material, and personal communications. Deepfakes were highlighted as amplifying fraud, non-consensual intimate imagery, and information-integrity risks.  
