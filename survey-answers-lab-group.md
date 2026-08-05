@@ -1,6 +1,6 @@
 Survey questions from Innovation, Science and Economic Development Canada:
 
-
+https://ised-isde.canada.ca/site/ised/en/have-your-say-advancing-ai-transparency-canada
 
 1. Would it help you trust what you see online if you could tell whether something was created by AI or by a person? When and for what kinds of content (e.g., image, video, audio) is it most important to know if something was created or modified by AI? 
 2. What would best help Canadians determine when content is AI-generated (e.g., invisible or visible watermarks, disclaimers, provenance metadata)?
