@@ -84,5 +84,5 @@ FACILITATOR NOTES:
 - PARTICIPANTS: approximately 20
 - LENGTH: 1h:17mins
 - DESCRIPTION: We started the meeting with the intention to answer each survey question as one group. However, the first few questions are very shallow and the conversation quickly drifted to deeper issues. We steered back to the survey questions list a few times but mostly had a very engaging and important discussion about AI ethics and possible futures.
-- The discussion was recorded and transcribed. Notes were kept.
+- The discussion was [recorded](assets/ai-ethical-futures-lab-6-recording.m4a) and [transcribed](ai-ethical-futures-lab-6-transcript.md). [Notes](ai-ethical-futures-lab-6-notes.md) were kept.
 - The meeting concluded with revisiting the need to respond to the Government call for comment. Their survey contains a lot of detailed, complex questions and will require a non-trivial amount of hours to draft a thoughtful, human, useful response. Sara volunteered to pick up from these meeting artifacts and tackle the survey questions as the primary input for a formal BC+AI response as a next action step.
