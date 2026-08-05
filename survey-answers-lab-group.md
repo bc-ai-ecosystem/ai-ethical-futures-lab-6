@@ -25,6 +25,7 @@ https://ised-isde.canada.ca/site/ised/en/have-your-say-advancing-ai-transparency
 - Lot of hallucinations and fake news - in medical practice, practitioners are the filter to check AI outputs/recommendations. How can we equip non-expert end users to do same? Who's fault is it? **Equip end-users to discern truth so we rely less on the government.**
 - whose data is it when my image or actions are recorded in public.
 - there should be more skill training for average citizens on how to use sovereign, local AI.
+- China has a law that says an AI can play role of a human, e.g. a doctor.
   
 2. What would best help Canadians determine when content is AI-generated (e.g., invisible or visible watermarks, disclaimers, provenance metadata)?
 
