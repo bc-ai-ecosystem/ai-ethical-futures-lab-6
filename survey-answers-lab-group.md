@@ -7,7 +7,9 @@ https://ised-isde.canada.ca/site/ised/en/have-your-say-advancing-ai-transparency
 - Yes, but how. How was it used rather than whether it was used.
 - There are no preventative questions being asked. Cigarette label warning helps but you still need public health initiaves (it's multi-pronged.
 - are we addressing prevention.
-- what about hybrid digital media, where AI was involved in process. 
+- what about hybrid digital media, where AI was involved in process.
+- what about generative AI in medical records? This is maybe a less visible area to end-users.
+- is government just trying to appease public by asking for this survey, is it consultation theatre?
 
 
 2. What would best help Canadians determine when content is AI-generated (e.g., invisible or visible watermarks, disclaimers, provenance metadata)?
