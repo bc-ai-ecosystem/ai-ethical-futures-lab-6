@@ -1,0 +1,16 @@
+README.md
+  h_10c93bba641ef0 19
+ai-ethical-futures-lab-6-survey-responses-grok4.5.md
+  h_10c93bba641ef0 1-73
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "2e4317d87e3396af0c84427251ab7f571a28a885",
+  "prompts": {},
+  "humans": {
+    "h_10c93bba641ef0": {
+      "author": "Peter Van Garderen <vangarderen.peter@gmail.com>"
+    }
+  }
+}
