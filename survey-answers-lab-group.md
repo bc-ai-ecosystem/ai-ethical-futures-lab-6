@@ -56,6 +56,8 @@ https://ised-isde.canada.ca/site/ised/en/have-your-say-advancing-ai-transparency
 - many laws are individual focused so its more difficult to measure cultural harm.
 - corporate harm or government harm - eg credit rating - who is responsible
 - what about a scale of harm? eg. self-driving car is trained on detecting humans, could do harm if not identified as human (transparency in training data).
+- counter-argument; labels in AI content may create prejudice, plus in 20 years, everything will have some AI input. AI has reduced barrier to musical expression which has now been opened to a much wider audience thanks to AI
+- Deepfakes should be a line not crossed. Each human citizen should own their face, voice, etc.
 
 17. Which individuals or actors (e.g., developers, deployers) are best placed to provide the most relevant information? Who (e.g., regulatory bodies, nonprofits, others) should collect this information and what should be done with it? 
 18. Are existing incident reporting frameworks in Canada (e.g., for consumer products, medical devices, transportation) sufficient to address serious incidents involving AI? If not, where do gaps remain and what actions (e.g., regulatory measures, guidance and codes of conduct, standards and technical solutions, research and development, literacy initiatives, procurement requirements) do you think the Government should take? Are there emerging international best practices that Canada could adapt or interoperate with?
