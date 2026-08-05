@@ -1,0 +1,16 @@
+README.md
+  h_10c93bba641ef0 14-15
+ai-ethical-futures-lab-6-transcript-summary.md
+  h_10c93bba641ef0 10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "2ed5fb8eeee62c475e014b9c1e194b74401b65b8",
+  "prompts": {},
+  "humans": {
+    "h_10c93bba641ef0": {
+      "author": "Peter Van Garderen <vangarderen.peter@gmail.com>"
+    }
+  }
+}
