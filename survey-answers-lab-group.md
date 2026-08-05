@@ -23,6 +23,7 @@ https://ised-isde.canada.ca/site/ised/en/have-your-say-advancing-ai-transparency
 - BC Rental law is a good example. People renting their property have to comply. AI users should as well.
 - Where is the human loop? Make it obvious and not a rubber-stamp.
 - Lot of hallucinations and fake news - in medical practice, practitioners are the filter to check AI outputs/recommendations. How can we equip non-expert end users to do same? Who's fault is it? **Equip end-users to discern truth so we rely less on the government.**
+- whose data is it when my image or actions are recorded in public.
   
 2. What would best help Canadians determine when content is AI-generated (e.g., invisible or visible watermarks, disclaimers, provenance metadata)?
 
